@@ -1,3 +1,29 @@
-h {
-    color: blue;
+#div{
+    background-color:aqua;
+    height:400px;
+    width:100px;
+
+}
+#divone{
+    background-color:red;
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    text-align:center;
+    border-style:solid,dotted,
+}
+#divtwo{
+    background-color:green;
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    text-align:center;
+    text-transform: capitalize;
+}
+#divthree{
+    background-color:yellow;
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    text-align:center;
 }
